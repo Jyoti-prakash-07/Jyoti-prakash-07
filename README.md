@@ -20,7 +20,7 @@ Css and any software development question.
 <h2 align="left">⚒️ Languages-Frameworks-Tools : </h2>
 <br/>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,python,js" />
+<img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,vscode,github,git,python" />
 
 </div>
 
