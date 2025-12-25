@@ -1,7 +1,7 @@
  
 # 💫 About Me :
 **🔭 I’m currently working on :**<br>
- Html & CSS
+ Html,CSS & js
 
 **👯 I’m looking to collaborate on :**<br>
 Web projects
