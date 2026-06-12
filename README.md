@@ -10,6 +10,7 @@ Web projects
 Css and any software development question.
 
 **📫 How to reach me :**<br>
+jyotiprakashj810@gmail.com
 
 
 **⚡ Fun fact :** <br>
