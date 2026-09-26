@@ -13,26 +13,11 @@
 
 ## 🌐 Connect With Me
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/jyoti-prakash-dutta-230356296/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Jyoti-prakash-07">
-        <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-      </a>
-    </td>
-    <td>
-      <a href="mailto:jyotiprakashj810@gmail.com">
-        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="45" alt="Email" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jyoti-prakash-dutta-230356296/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jyoti-prakash-07)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:jyotiprakashj810@gmail.com)
 
 ## 🛠️ Tech Stack
 
