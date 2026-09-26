@@ -101,3 +101,16 @@ Full-stack task management application built with modern web technologies.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
+---
+
+## ⚠️ Copyright
+
+© 2026 Jyoti Prakash Dutta. All Rights Reserved.
+
+This README, profile design, content, and original code are my
+intellectual property.
+
+You may view this repository for reference, but you may not copy,
+modify, redistribute, republish, or use my original work in another
+project without my written permission.
+
