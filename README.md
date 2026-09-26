@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Jyoti Prakash Dutta
+
+  # 👋 Hi, I'm Jyoti Prakash Dutta
 
 ### 💻 B.Tech CSE Student | Full Stack Development | Data Analytics | Cyber Security
 
@@ -83,7 +84,7 @@ Full-stack task management application built with modern web technologies.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Jyoti-prakash-07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Jyoti-prakash-07&theme=tokyonight&hide_border=true"  width="70%" />
 
 </div>
 
@@ -96,3 +97,7 @@ Full-stack task management application built with modern web technologies.
 ⭐ Feel free to explore my repositories and projects.
 
 </div>
+<!--Line-->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
+
