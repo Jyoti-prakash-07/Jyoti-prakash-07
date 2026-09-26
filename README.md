@@ -1,37 +1,31 @@
-<div align="center">
-
 # 👋 Hi, I'm Jyoti Prakash Dutta
 
-### 💻 Full Stack Developer | Data Analytics | Cyber Security
+### 💻 B.Tech CSE Student | Full Stack Development | Data Analytics | Cyber Security
 
-Building modern web applications and learning something new every day 🚀
-
-<p>
-  <a href="https://github.com/Jyoti-prakash-07">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/jyoti-prakash-dutta-230356296/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
-</div>
+🎓 B.Tech Computer Science & Engineering Student  
+💻 Full Stack Development enthusiast  
+📊 Interested in Data Analytics  
+🔐 Exploring Cyber Security  
+🌱 Currently improving my JavaScript, React and Backend skills  
+⚡ I enjoy building real-world projects and solving problems with code.
 
 ---
 
-## 🚀 About Me
+## 🌐 Connect With Me
 
-🎓 B.Tech Computer Science & Engineering Student
+<p align="left">
+  <a href="https://github.com/Jyoti-prakash-07">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-💻 Full Stack Development enthusiast
+  <a href="https://www.linkedin.com/in/jyoti-prakash-dutta-230356296/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-📊 Interested in Data Analytics
-
-🔐 Exploring Cyber Security
-
-🌱 Currently improving my JavaScript, React and Backend skills
-
-⚡ I enjoy building real-world projects and solving problems with code.
+  <a href="mailto:jyotiprakashj810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -39,26 +33,26 @@ Building modern web applications and learning something new every day 🚀
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
 </p>
 
 ### ⚛️ Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
 ### 🖥️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### 🔧 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,canva" />
 </p>
 
 ---
@@ -67,27 +61,29 @@ Building modern web applications and learning something new every day 🚀
 
 ### 🏥 Healthcare Analytics for Doctor Visits
 
-Data analytics project focused on analyzing healthcare and doctor visit data.
+Healthcare data analytics project focused on doctor visits and related data.
 
 🔗 **[View Project](https://github.com/Jyoti-prakash-07/Healthcare-Analytics-for-Doctor-Visits)**
-
----
 
 ### ✅ To-Do Application
 
 Full-stack task management application built with modern web technologies.
 
-🔗 **[View GitHub Projects](https://github.com/Jyoti-prakash-07?tab=repositories)**
+🔗 **[View My Repositories](https://github.com/Jyoti-prakash-07?tab=repositories)**
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jyoti-prakash-07&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyoti-prakash-07&theme=tokyonight" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti-prakash-07&layout=compact&hide_border=true&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyoti-prakash-07&theme=tokyonight" width="48%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyoti-prakash-07&theme=tokyonight" width="98%" />
 
 </div>
 
@@ -97,18 +93,16 @@ Full-stack task management application built with modern web technologies.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jyoti-prakash-07&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Jyoti-prakash-07&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
+<div align="center">
 
+### 💙 Thanks for visiting my profile!
 
-<!--Line-->
+⭐ Feel free to explore my repositories and projects.
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
-
-
-
-
+</div>
