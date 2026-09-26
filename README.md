@@ -68,9 +68,10 @@ Full-stack task management application built with modern web technologies.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyoti-prakash-07&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jyoti-prakash-07&theme=tokyonight" width="48%" height="220" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jyoti-prakash-07&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jyoti-prakash-07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" height="220" />
+
 
 <br><br>
 
@@ -113,4 +114,8 @@ intellectual property.
 You may view this repository for reference, but you may not copy,
 modify, redistribute, republish, or use my original work in another
 project without my written permission.
+
+
+
+
 
