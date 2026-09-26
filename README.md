@@ -14,17 +14,21 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/Jyoti-prakash-07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/jyoti-prakash-dutta-230356296/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/jyoti-prakash-dutta-230356296/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
 
-  <a href="mailto:jyotiprakashj810@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://github.com/Jyoti-prakash-07" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:jyotiprakashj810@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="45" height="45" alt="Email"/>
+</a>
+
 </p>
 
 ---
