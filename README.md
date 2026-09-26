@@ -103,15 +103,7 @@ Full-stack task management application built with modern web technologies.
 
 ---
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyoti-prakash-07&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
-
----
 
 <!--Line-->
 
