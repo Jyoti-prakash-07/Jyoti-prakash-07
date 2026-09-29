@@ -1,7 +1,12 @@
+<h1 align="center">
+  👋 Hi, I'm Jyoti Prakash Dutta
+</h1>
 
-  # 👋 Hi, I'm Jyoti Prakash Dutta
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Full+Stack+Development;Data+Analytics;Exploring+Cyber+Security;Always+Learning+New+Technologies" />
+</p>
 
-### 💻 B.Tech CSE Student | Full Stack Development | Data Analytics | Cyber Security
+### 💻 B.Tech CSE Student | Full Stack Development | Data Analytics
 
 🎓 B.Tech Computer Science & Engineering Student  
 💻 Full Stack Development enthusiast  
