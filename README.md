@@ -113,12 +113,11 @@ Full-stack task management application built with modern web technologies.
 
 © 2026 Jyoti Prakash Dutta. All Rights Reserved.
 
-This README, profile design, content, and original code are my
-intellectual property.
+The original content, custom design, and original code in this
+profile are protected by applicable copyright laws.
 
-You may view this repository for reference, but you may not copy,
-modify, redistribute, republish, or use my original work in another
-project without my written permission.
+Permission is required to reproduce, modify, redistribute,
+republish, or reuse my original work.
 
 
 
