@@ -1,6 +1,4 @@
-<h1 align="center">
-  👋 Hi, I'm Jyoti Prakash Dutta
-</h1>
+# 👋 Hi, I'm Jyoti Prakash Dutta
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student;Full+Stack+Development;Data+Analytics;Exploring+Cyber+Security;Always+Learning+New+Technologies" />
@@ -77,7 +75,6 @@ Full-stack task management application built with modern web technologies.
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jyoti-prakash-07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" height="220" />
 
-
 <br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyoti-prakash-07&theme=tokyonight" width="98%" />
@@ -90,7 +87,7 @@ Full-stack task management application built with modern web technologies.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Jyoti-prakash-07&theme=tokyonight&hide_border=true"  width="70%" />
+<img src="https://streak-stats.demolab.com/?user=Jyoti-prakash-07&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
@@ -101,9 +98,12 @@ Full-stack task management application built with modern web technologies.
 ### 💙 Thanks for visiting my profile!
 
 ⭐ Feel free to explore my repositories and projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jyoti-prakash-07&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
+</p>
+
 
 </div>
-<!--Line-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="70" width="100%">
 
@@ -118,8 +118,3 @@ profile are protected by applicable copyright laws.
 
 Permission is required to reproduce, modify, redistribute,
 republish, or reuse my original work.
-
-
-
-
-
